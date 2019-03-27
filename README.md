@@ -1,4 +1,4 @@
-# Solarized JetBrains
+# Monokai Pro JetBrains
 
 Changes your JetBrains IDE to fit the [Monokai Pro](monokai.pro) colorscheme.
 Special thanks to Tyler Thrailkill for his first [implementation of the Solarized 
