@@ -13,7 +13,7 @@ Modify the `Monokai_Pro.theme.json` file and just run `Plugin` from the build wi
 this opens up a new IDE window and you can switch to the theme there.
 I'm happy about any contributions.
 
-# Thanks
+## Thanks
 
 Special thanks to:
 
