@@ -8,7 +8,7 @@ an excellent starting point for this plugin.
 Uses JetBrains new [custom theming](https://blog.jetbrains.com/idea/2019/03/brighten-up-your-day-add-color-to-intellij-idea/) to
 add Monokai Pro to the entire IDE. Only works in 2019.1+
 
-![Image showing what Monokai Pro looks like](resources/screenshots/example.png)
+![Image showing what Monokai Pro looks like](screenshots/example.png)
 
 # Contributing
 

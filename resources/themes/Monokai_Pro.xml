@@ -1,10 +1,9 @@
 <scheme name="Monokai Pro" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-03-25T16:27:04</property>
+    <property name="created">2019-04-04T23:02:32</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.5.0.0</property>
-    <property name="modified">2019-03-25T16:27:18</property>
-    <property name="originalScheme">DK Monokai</property>
+    <property name="ideVersion">2019.1.0.0</property>
+    <property name="modified">2019-04-04T23:02:58</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
@@ -28,15 +27,14 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="2d2a2e" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="" />
+    <option name="GUTTER_BACKGROUND" value="2d2a2f" />
     <option name="INDENT_GUIDE" value="373737" />
     <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
-    <option name="SELECTED_TEARLINE_COLOR" value="cc9900" />
+    <option name="SELECTED_TEARLINE_COLOR" value="cc9901" />
     <option name="SELECTION_BACKGROUND" value="214283" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="5b5a4e" />
@@ -89,7 +87,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="2d2a2e" />
+        <option name="ERROR_STRIPE_COLOR" value="2d2a2f" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -282,7 +280,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
+        <option name="FOREGROUND" value="ff6189" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -315,7 +313,7 @@
     </option>
     <option name="DEFAULT_DOT">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
+        <option name="FOREGROUND" value="ff6189" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -362,8 +360,8 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
-        <option name="BACKGROUND" value="2d2a2e" />
+        <option name="FOREGROUND" value="ff6189" />
+        <option name="BACKGROUND" value="2d2a2f" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -395,7 +393,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
+        <option name="FOREGROUND" value="ff6189" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -411,7 +409,7 @@
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
+        <option name="FOREGROUND" value="ff6189" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -431,7 +429,7 @@
     </option>
     <option name="DEFAULT_TAG">
       <value>
-        <option name="FOREGROUND" value="ff6188" />
+        <option name="FOREGROUND" value="ff6189" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -522,6 +520,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HTML_CODE">
       <value />
     </option>
@@ -534,8 +533,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e5e7e8" />
-        <option name="ERROR_STRIPE_COLOR" value="96d22f" />
+        <option name="EFFECT_COLOR" value="e5e7e9" />
+        <option name="ERROR_STRIPE_COLOR" value="96d230" />
       </value>
     </option>
     <option name="IGNORE.HEADER">
@@ -789,7 +788,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f6f6f6" />
-        <option name="BACKGROUND" value="2d2a2e" />
+        <option name="BACKGROUND" value="2d2a2f" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -800,7 +799,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="fef629" />
+        <option name="FOREGROUND" value="fef62A" />
         <option name="ERROR_STRIPE_COLOR" value="287bde" />
       </value>
     </option>
@@ -837,8 +836,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="e5e7e8" />
-        <option name="ERROR_STRIPE_COLOR" value="96d22f" />
+        <option name="EFFECT_COLOR" value="e5e7e9" />
+        <option name="ERROR_STRIPE_COLOR" value="96d230" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

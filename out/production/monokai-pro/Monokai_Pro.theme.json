@@ -23,10 +23,10 @@
 
     "Label.foreground": "#fcfcfa",
     "Label.background": "#2d2a2e",
-    "Label.selectedForeground": "#fcfcfa",
+    "Label.selectedForeground": "#2d2a2e",
     "FileColor": {
       "Yellow": "#5f5026",
-      "Green": "#a9dc76",
+      "Green": "#465f2c",
       "Blue": "#78dce8",
       "Violet": "#ab9df2",
       "Orange": "#fc9867",

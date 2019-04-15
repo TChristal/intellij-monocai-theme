@@ -1,8 +1,8 @@
 <idea-plugin>
   <id>com.berzanmikaili.intellij.monokai_pro</id>
   <name>Monokai Pro</name>
-  <version>1.0</version>
-  <vendor email="berzanmikaili@gmail.com" url="berzanmikaili@gmail.com">Berzan Yildiz</vendor>
+  <version>1.3</version>
+  <vendor email="berzanmikaili@gmail.com" url="berzanmikaili.com">Berzan Yildiz</vendor>
 
   <description><![CDATA[
       Adds Monokai Pro as an editor colorscheme.
@@ -10,13 +10,13 @@
 
   <change-notes><![CDATA[
     <ul>
-    <li>1.0   Initial release. Basic theme functionality.</li>
+    <li>1.3   Fixed Gradle keyword coloring to mimic Java.</li>
     <ul>
     ]]>
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
