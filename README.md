@@ -1,16 +1,16 @@
-# Monokai Pro JetBrains
+# Monocai theme JetBrains
 
-Changes your JetBrains IDE to fit the [Monokai Pro](monokai.pro) colorscheme.
+Changes your JetBrains IDE to fit the Monocai colorscheme, inspired by [Monokai Pro](monokai.pro).
 
-Uses JetBrains new [custom theming](https://blog.jetbrains.com/idea/2019/03/brighten-up-your-day-add-color-to-intellij-idea/) to add Monokai Pro to the entire IDE. Only works in 2019.1+.
+Uses JetBrains new [custom theming](https://blog.jetbrains.com/idea/2019/03/brighten-up-your-day-add-color-to-intellij-idea/) to add the colorscheme to the entire IDE. Only works in 2019.1+.
 
 ![Image showing what Monokai Pro looks like](screenshots/example.png)
 
 ## Contributing
 
-Modify the `Monokai_Pro.theme.json` file and just run `Plugin` from the build window,
+Modify the `Monocai.theme.json` file and just run `Plugin` from the build window,
 this opens up a new IDE window and you can switch to the theme there.
-I'm happy about any contributions.
+I'm happy about any feedback.
 
 ## Thanks
 
