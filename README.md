@@ -19,4 +19,4 @@ Special thanks to:
 * Tyler Thrailkill for his [implementation of the Solarized 
 Theme](https://plugins.jetbrains.com/plugin/12112-solarized-theme) which served as 
 an excellent starting point for this plugin.
-* Monokai for the [Monokai Pro colorscheme](monokai.pro).
+* Monokai for the [Monokai Pro colorscheme](monokai.pro), which also served as a big influence.
