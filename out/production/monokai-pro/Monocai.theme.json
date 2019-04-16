@@ -1,0 +1,157 @@
+{
+  "name": "Monocai",
+  "dark": true,
+  "author": "Berzan Yildiz",
+  "editorScheme": "/themes/Monocai.xml",
+  "ui": {
+    "Borders": {
+      "color": "#403e42",
+      "ContrastBorderColor": "#403e42"
+    },
+    "*": {
+      "background": "#2d2a2f",
+      "foreground": "#fcfcfb",
+      "selectionBackground": "#403e42",
+      "selectionForeground": "#fcfcfb"
+    },
+    "*.darcula": {
+      "background": "#2d2a2f",
+      "foreground": "#fcfcfb",
+      "selectionBackground": "#403e42",
+      "selectionForeground": "#fcfcfb"
+    },
+
+    "Label.foreground": "#fcfcfb",
+    "Label.background": "#2d2a2f",
+    "Label.selectedForeground": "#fcfcfb",
+    "FileColor": {
+      "Yellow": "#5f5026",
+      "Green": "#465f2c",
+      "Blue": "#78dce9",
+      "Violet": "#ab9df3",
+      "Orange": "#fc9868",
+      "Rose": "#ff6189"
+    },
+
+    "ActionButton": {
+      "hoverBorderColor": "#2d2a2f",
+      "pressedBorderColor": "#2d2a2f"
+    },
+    "Button": {
+      "startBackground": "#2d2a2f",
+      "endBackground": "#2d2a2f",
+      "startBorderColor": "#403e42",
+      "endBorderColor": "#403e42",
+      "focusedBorderColor": "#727072",
+      "default": {
+        "startBackground": "#78dce9",
+        "endBackground": "#78dce9",
+        "startBorderColor": "#78dce9",
+        "endBorderColor": "#78dce9",
+        "focusedBorderColor": "#2d2a2f",
+        "foreground": "#2d2a2f"
+      }
+    },
+
+    "ComboBox": {
+      "nonEditableBackground": "#2d2a2f",
+      "arrowButtonBackground": "#2d2a2f",
+      "editable.arrowButtonBackground": "#2d2a2f",
+      "arrowButtonForeground": "#2d2a2f8b",
+      "arrowButtonDisabledForeground": "#2d2a2fb1"
+    },
+
+    "Component.grayForeground": "#fcfcfb",
+
+    "Editor": {
+      "background": "#2d2a2f",
+      "foreground": "#fcfcfb8b",
+      "shortcutForeground": "#78dce9"
+    },
+
+    "EditorPane.inactiveBackground": "#2d2a2f",
+
+    "EditorTabs": {
+      "active": {
+        "foreground": "#fcfcfb",
+        "background": "#403e42",
+        "selectedBackground": "#2d2a2f",
+        "underlineColor": "#727072"
+      },
+      "inactive.maskColor": "#403e42FF"
+    },
+
+    "FlameGraph": {
+      "JVMBackground": "#ffd866",
+      "JVMSearchNotMatchedBackground": "#806919",
+      "nativeBackground": "#727072",
+      "nativeSearchNotMatchedBackground": "#78dce9",
+      "parentBackground": "#2d2a2f8b",
+      "parentSearchNotMatchedBackground": "#757575",
+      "JVMFocusBackground": "#403e42",
+      "JVMFocusSearchNotMatchedBackground": "#403e42",
+      "nativeFocusBackground": "#403e42",
+      "nativeFocusSearchNotMatchedBackground": "#403e42",
+      "parentFocusBackground": "#403e42",
+      "parentFocusSearchNotMatchedBackground": "#403e42",
+      "JVMFrameForeground": "#000000",
+      "nativeFrameForeground": "#000000",
+      "parentFrameForeground": "#000000",
+      "JVMFocusedFrameForeground": "#2d2a2f8b",
+      "nativeFocusedFrameForeground": "#2d2a2f8b",
+      "parentFocusedFrameForeground": "#2d2a2f8b"
+    },
+
+    "Focus": {
+      "borderColor": "#727072",
+      "defaultButtonBorderColor": "#727072"
+    },
+
+    "Group.separatorColor": "#403e42",
+
+    "Menu": {
+      "separatorColor": "#403e42"
+    },
+
+    "NavBar.borderColor": "#403e42",
+
+    "Separator.foreground": "#403e42",
+
+    "SidePanel.background": "#2d2a2f",
+
+    "StatusBar.borderColor": "#403e42",
+
+    "Table.stripeColor": "#403e42d3",
+    "Table.selectionBackground": "#78dce9aa",
+    "Table.selectionInactiveBackground": "#78dce9FF",
+    "Table.selectionForeground": "#000000",
+    "Table.focusCellForeground": "#000000",
+
+    "ToggleButton": {
+      "onForeground": "#2d2a2f8b",
+      "offForeground": "#2d2a2f8b",
+      "buttonColor": "#2d2a2f8b",
+      "borderColor": "#2d2a2f8b"
+    },
+
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "#2d2a2f",
+        "background": "#2d2a2f",
+        "borderColor": "#403e42"
+      },
+      "HeaderTab": {
+        "selectedBackground": "#727072FF",
+        "selectedInactiveBackground": "#2d2a2fFF",
+        "hoverBackground": "#727072FF",
+        "hoverInactiveBackground": "#2d2a2fFF"
+      },
+      "Button": {
+        "hoverBackground": "#403e42",
+        "selectedBackground": "#403e42",
+        "selectedForeground": "#727072"
+      }
+    }
+  }
+}
+}
