@@ -1,4 +1,4 @@
-# Monocai theme JetBrains
+# Monocai Theme for JetBrains
 
 Changes your JetBrains IDE to fit the Monocai colorscheme, inspired by [Monokai Pro](monokai.pro).
 
