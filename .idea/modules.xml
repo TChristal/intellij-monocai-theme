@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/monokai-pro.iml" filepath="$PROJECT_DIR$/monokai-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monocai.iml" filepath="$PROJECT_DIR$/monocai.iml" />
     </modules>
   </component>
 </project>
