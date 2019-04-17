@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9b9329dd-e76f-4c17-acae-4a35d59e71f8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monokai-pro.jar" beforeDir="false" afterPath="$PROJECT_DIR$/monokai-pro.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/monokai-pro/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/monokai-pro/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/monokai-pro/Monokai_Pro.theme.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/monokai-pro/themes/Monokai_Pro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monocai.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/monocai/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/monocai/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/monocai/Monocai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/monocai/Monocai.theme.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/Monokai_Pro.theme.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/themes/Monokai_Pro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Monocai.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Monocai.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/example.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,22 +22,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="405">
+              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/Monocai.theme.json">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5550">
+              <caret line="370" column="29" selection-start-line="370" selection-start-column="29" selection-end-line="370" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monokai-pro.iml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monocai.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
@@ -61,9 +64,11 @@
       <find>weight</find>
       <find>403e42</find>
       <find>ab9df2</find>
+      <find>2d2a2f</find>
     </findStrings>
     <replaceStrings>
       <replace>ab9df3</replace>
+      <replace>413d44</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -75,6 +80,7 @@
         <option value="$PROJECT_DIR$/Monokai_Pro.theme.json" />
         <option value="$PROJECT_DIR$/resources/Monokai_Pro.theme.json" />
         <option value="$PROJECT_DIR$/resources/themes/Monokai_Pro.xml" />
+        <option value="$PROJECT_DIR$/resources/Monocai.theme.json" />
         <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
       </list>
     </option>
@@ -87,10 +93,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="840" />
-    <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="1027" />
+    <option name="x" value="-256" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -127,6 +132,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,15 +145,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,17 +215,18 @@
       <workItem from="1554668854302" duration="318000" />
       <workItem from="1554669834075" duration="142000" />
       <workItem from="1555414910796" duration="230000" />
-      <workItem from="1555415173274" duration="21000" />
+      <workItem from="1555415173274" duration="8242000" />
+      <workItem from="1555532818326" duration="524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6612000" />
+    <option name="totallyTimeSpent" value="15357000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="-256" y="-1057" width="1920" height="1057" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20766774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -228,7 +236,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -299,22 +307,113 @@
     <entry file="file://$PROJECT_DIR$/resources/themes/Monokai Pro.icls" />
     <entry file="file://$PROJECT_DIR$/resources/Monokai_Pro.theme.json" />
     <entry file="file://$PROJECT_DIR$/resources/themes/Monokai_Pro.xml" />
-    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+    <entry file="file://$PROJECT_DIR$/resources/Monocai.theme.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="5550">
+          <caret line="370" column="29" selection-start-line="370" selection-start-column="29" selection-end-line="370" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/Monocai.theme.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monokai-pro.iml">
+    <entry file="file://$PROJECT_DIR$/monocai.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/example.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>monocai</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

@@ -1,16 +1,17 @@
 <idea-plugin>
   <id>com.berzanmikaili.intellij.monokai_pro</id>
   <name>Monocai</name>
-  <version>1.4</version>
+  <version>2.0.1</version>
   <vendor email="berzanmikaili@gmail.com" url="berzanmikaili.com">Berzan Yildiz</vendor>
 
   <description><![CDATA[
-      Adds Monocai theme as an editor colorscheme.
+      Adds Monocai, inspired by Monokai and Monokai Pro, as an editor colorscheme.
     ]]></description>
 
   <change-notes><![CDATA[
     <ul>
-    <li>1.4   Kotlin Smart Cast support and fix for Tool Window Tab coloring.</li>
+    <li>2.0.0   Introduced some new customizations, most notably to icon colors.</li>
+    <li>2.0.1   Updated description.</li>
     <ul>
     ]]>
   </change-notes>
