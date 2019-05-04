@@ -1,17 +1,18 @@
 <idea-plugin>
   <id>com.berzanmikaili.intellij.monokai_pro</id>
-  <name>Monocai</name>
-  <version>2.0.1</version>
+  <name>Monocai Color Theme</name>
+  <version>2.0.2a</version>
   <vendor email="berzanmikaili@gmail.com" url="berzanmikaili.com">Berzan Yildiz</vendor>
 
   <description><![CDATA[
-      Adds Monocai, inspired by Monokai and Monokai Pro, as an editor colorscheme.
+      Adds Monocai, inspired by Monokai and Monokai Pro, as an editor colorscheme. This color theme uses modern colors
+      that will enhance readability whilst keeping eyestrain to a minimum.
     ]]></description>
 
   <change-notes><![CDATA[
     <ul>
-    <li>2.0.0   Introduced some new customizations, most notably to icon colors.</li>
-    <li>2.0.1   Updated description.</li>
+    <li>2.0.2   Possible fix for Plugin Suggestion Popups.</li>
+    <li>2.0.2a   Renaming for better visibility in search results.</li>
     <ul>
     ]]>
   </change-notes>
