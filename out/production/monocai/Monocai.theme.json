@@ -370,13 +370,13 @@
 
       "Checkbox.Background.Default.Dark": "#2d2a2f",
       "Checkbox.Border.Default.Dark": "#727072",
-      "Checkbox.Foreground.Selected.Dark": "#403e42",
+      "Checkbox.Foreground.Selected.Dark": "#fcfcfb",
       "Checkbox.Focus.Wide.Dark": "#403e42",
       "Checkbox.Focus.Thin.Default.Dark": "#fcfcfb",
       "Checkbox.Focus.Thin.Selected.Dark": "#fcfcfb",
       "Checkbox.Background.Disabled.Dark": "#2d2a2f",
       "Checkbox.Border.Disabled.Dark": "#2d2a2f",
-      "Checkbox.Foreground.Disabled.Dark": "#727072"
+      "Checkbox.Foreground.Disabled.Dark": "#fcfcfb"
     }
   }
 }
