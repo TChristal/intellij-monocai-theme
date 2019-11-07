@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.berzanmikaili.intellij.monokai_pro</id>
   <name>Monocai Color Theme</name>
-  <version>2.0.2b</version>
+  <version>2.0.2c</version>
   <vendor email="berzanmikaili@gmail.com" url="berzanmikaili.com">Berzan Yildiz</vendor>
 
   <description><![CDATA[
@@ -11,9 +11,7 @@
 
   <change-notes><![CDATA[
     <ul>
-    <li>2.0.2   Possible fix for Plugin Suggestion Popups.</li>
-    <li>2.0.2a   Renaming for better visibility in search results.</li>
-    <li>2.0.2b Introduced highlight for the current line.</li>
+    <li>2.0.2c Darkened highlight color to make comments more readable.</li>
     <ul>
     ]]>
   </change-notes>
